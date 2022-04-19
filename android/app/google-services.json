@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833576649104",
+    "project_id": "dukkantek-33c46",
+    "storage_bucket": "dukkantek-33c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833576649104:android:e19bcb16cff1eeb83d3315",
+        "android_client_info": {
+          "package_name": "com.dukkantek.sample.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833576649104-fcs2nkrpmtc8urugnsgiha19h1vhm30c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBUoSeDQkgDIGeu5PykyONzUDBnt2125U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833576649104-fcs2nkrpmtc8urugnsgiha19h1vhm30c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
